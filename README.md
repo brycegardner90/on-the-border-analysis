@@ -158,7 +158,7 @@ This project taught me that **brand erosion is a choice, not a circumstance.** T
 | **Business Analysis Series** | | | |
 | 1 | 🎬 [Carmike Cinemas](https://github.com/brycegardner90/carmike-cinemas-analysis) | Python · SQLite · Tableau | Cinema industry — rise, bankruptcy & acquisition |
 | 2 | 🌮 On The Border *(this project)* | Python · SQLite · Tableau | Casual dining — PE ownership & brand decline |
-| 3 | 🍹 Kona Grill *(Coming Soon)* | Python · SQLite · Tableau | Upscale casual — growth, COVID impact & acquisition |
+| 3 | 🍹 [Kona Grill](https://github.com/brycegardner90/kona-grill-analysis) | Python · SQLite · Tableau | Upscale casual — overexpansion, bankruptcy & recovery |
 | **Original Portfolio** | | | |
 | 1 | 🎮 [Video Game Sales Analysis](https://github.com/brycegardner90/video-game-sales-analysis) | SQL · Power BI | Sales trends & publisher performance |
 | 2 | 🏈 [NFL Penalty Bias Analysis](https://github.com/brycegardner90/nfl-penalty-analysis) | SQL · Power BI | Referee bias & penalty patterns |
