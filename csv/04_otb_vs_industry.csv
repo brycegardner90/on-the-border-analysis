@@ -1,0 +1,45 @@
+year,otb_locations,fast_casual_locations,chilis_locations,chipotle_locations,ownership_era,employment_period
+1982,1,500,,,Independent,Outside Employment
+1983,2,917,,,Independent,Outside Employment
+1984,3,1333,,,Independent,Outside Employment
+1985,5,1750,,,Independent,Outside Employment
+1986,7,2167,,,Independent,Outside Employment
+1987,9,2583,,,Independent,Outside Employment
+1988,11,3000,,,Independent,Outside Employment
+1989,13,3417,,,Independent,Outside Employment
+1990,15,3833,,,Independent,Outside Employment
+1991,17,4250,,,Independent,Outside Employment
+1992,19,4667,,,Independent,Outside Employment
+1993,20,5083,,,Independent,Outside Employment
+1994,21,5500,,,Brinker,Outside Employment
+1995,28,5917,,,Brinker,Outside Employment
+1996,38,6333,,,Brinker,Outside Employment
+1997,52,6750,,,Brinker,Outside Employment
+1998,65,7167,,,Brinker,Outside Employment
+1999,78,7583,,,Brinker,Outside Employment
+2000,90,8000,800,,Brinker,Outside Employment
+2001,100,8750,,,Brinker,Outside Employment
+2002,110,9500,,,Brinker,Outside Employment
+2003,120,10250,,,Brinker,Outside Employment
+2004,127,11000,1000,500,Brinker,Outside Employment
+2005,135,12000,,,Brinker,Outside Employment
+2006,153,13000,,,Brinker,Outside Employment
+2007,166,14000,,,Brinker,Outside Employment
+2008,164,15000,,,Brinker,Outside Employment
+2009,162,16000,,,Brinker,Outside Employment
+2010,161,17000,1200,1084,Golden Gate,Outside Employment
+2011,158,17744,,,Golden Gate,Outside Employment
+2012,155,18487,,,Golden Gate,Outside Employment
+2013,152,19231,1400,1595,Golden Gate,Outside Employment
+2014,150,23578,,,Argonne,Bryce Employment
+2015,145,27925,1500,1931,Argonne,Bryce Employment
+2016,140,26522,,,Argonne,Bryce Employment
+2017,135,25118,1400,2198,Argonne,Outside Employment
+2018,130,28000,1350,2452,Argonne,Outside Employment
+2019,128,30000,1228,2580,Argonne,Outside Employment
+2020,100,32000,1610,2724,Argonne,Outside Employment
+2021,125,35000,1400,2966,Argonne,Outside Employment
+2022,122,37500,,,Argonne,Outside Employment
+2023,120,40000,1231,3315,Argonne,Outside Employment
+2024,80,42049,,,Argonne,Outside Employment
+2025,55,44098,1300,3700,Pappas,Outside Employment

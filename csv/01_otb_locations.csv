@@ -1,0 +1,45 @@
+year,location_count,ownership_era,data_quality,employment_period,source_note
+1982,1,Independent,confirmed,Outside Employment,Founded Dallas TX — first location
+1983,2,Independent,estimated,Outside Employment,"Est: early growth, Dallas area expansion begins"
+1984,3,Independent,estimated,Outside Employment,Est: interpolated
+1985,5,Independent,estimated,Outside Employment,Est: interpolated
+1986,7,Independent,estimated,Outside Employment,Est: interpolated
+1987,9,Independent,estimated,Outside Employment,Est: interpolated
+1988,11,Independent,estimated,Outside Employment,Est: interpolated
+1989,13,Independent,estimated,Outside Employment,Est: interpolated
+1990,15,Independent,estimated,Outside Employment,Est: interpolated
+1991,17,Independent,estimated,Outside Employment,Est: interpolated
+1992,19,Independent,estimated,Outside Employment,Est: interpolated
+1993,20,Independent,estimated,Outside Employment,Est: interpolated — just before Brinker acquisition
+1994,21,Brinker,confirmed,Outside Employment,Encyclopedia.com — Brinker acquisition year
+1995,28,Brinker,estimated,Outside Employment,Est: franchising launched 1996; accelerating growth
+1996,38,Brinker,estimated,Outside Employment,Est: franchise program launched March 1996
+1997,52,Brinker,estimated,Outside Employment,Est: franchise expansion — Columbus OH locations confirmed 1997
+1998,65,Brinker,estimated,Outside Employment,Est: interpolated between 1997 and 2001
+1999,78,Brinker,estimated,Outside Employment,Est: interpolated
+2000,90,Brinker,estimated,Outside Employment,Est: interpolated — approaching 100 milestone
+2001,100,Brinker,confirmed,Outside Employment,Restaurant Dive / bankruptcy docs — confirmed milestone
+2002,110,Brinker,estimated,Outside Employment,Est: interpolated between 2001 and 2005
+2003,120,Brinker,estimated,Outside Employment,Est: interpolated
+2004,127,Brinker,estimated,Outside Employment,Est: interpolated — approaching 135 in 2005
+2005,135,Brinker,confirmed,Outside Employment,"Brinker 2005 Annual Report — ""added 8 for total of 135"""
+2006,153,Brinker,estimated,Outside Employment,Est: interpolated between 2005 and 2007 peak
+2007,166,Brinker,confirmed,Outside Employment,Multiple sources — peak location count confirmed
+2008,164,Brinker,estimated,Outside Employment,Est: slight pullback from 2007 peak — decline begins 2008
+2009,162,Brinker,estimated,Outside Employment,Est: continued slow decline pre-sale
+2010,161,Golden Gate,confirmed,Outside Employment,Brinker sale press release — 160-162 at time of sale
+2011,158,Golden Gate,estimated,Outside Employment,Est: interpolated between 2010 and 2014
+2012,155,Golden Gate,estimated,Outside Employment,"Est: interpolated — PE cost-cutting, closures begin"
+2013,152,Golden Gate,estimated,Outside Employment,Est: interpolated — approaching Argonne acquisition
+2014,150,Argonne,confirmed,Bryce Employment,Argonne Capital acquisition — ~150 locations
+2015,145,Argonne,estimated,Bryce Employment,"Est: interpolated — Bryce last year, closures accelerating"
+2016,140,Argonne,estimated,Bryce Employment,Est: Alpharetta closure this year — suburban market exits
+2017,135,Argonne,estimated,Outside Employment,Est: continued rationalization
+2018,130,Argonne,estimated,Outside Employment,Est: interpolated
+2019,128,Argonne,estimated,Outside Employment,Est: interpolated — pre-COVID struggling
+2020,100,Argonne,confirmed,Outside Employment,Wikipedia / Technomic — confirmed
+2021,125,Argonne,confirmed,Outside Employment,Technomic Ignite data — post-COVID rebound
+2022,122,Argonne,estimated,Outside Employment,Est: between 2021 rebound (125) and 2023 (120)
+2023,120,Argonne,confirmed,Outside Employment,"Technomic — sales down 3% YoY, 120 locations"
+2024,80,Argonne,estimated,Outside Employment,Est: pre-bankruptcy rapid closure acceleration
+2025,55,Pappas,confirmed,Outside Employment,Post-bankruptcy Pappas acquisition — ~55 surviving locations
